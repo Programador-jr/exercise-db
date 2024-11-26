@@ -2,15 +2,14 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "fs": "^0.0.1-security",
-    "mongoose": "^8.8.2"
+    "mongoose": "^8.8.3"
   },
   "name": "exercise-db",
   "version": "1.0.0",
   "description": "��#\u0000 \u0000e\u0000x\u0000e\u0000r\u0000c\u0000i\u0000s\u0000e\u0000-\u0000d\u0000b\u0000\r\u0000 \u0000",
   "main": "importExercises.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "importExercises.js"
   },
   "author": "",
   "license": "ISC"
